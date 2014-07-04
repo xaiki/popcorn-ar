@@ -1,0 +1,23 @@
+{
+  "name": "popar",
+  "version": "0.0.0",
+  "description": "gateway between educ.ar and popcorn",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/xaiki/popar"
+  },
+  "keywords": [
+    "popcorn",
+    "educ.ar",
+    "api"
+  ],
+  "author": "Niv Sardi <xaiki@debian.org>",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/xaiki/popar/issues"
+  }
+}
