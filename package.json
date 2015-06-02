@@ -4,7 +4,7 @@
   "description": "gateway between educ.ar and popcorn",
   "main": "api.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   "dependencies": {
     "q": "^1.0.1",
     "request": "^2.36.0",
-    "querystring": "^0.2.0"
+    "querystring": "^0.2.0",
+    "underscore": "^1.6.0"
   }
 }
